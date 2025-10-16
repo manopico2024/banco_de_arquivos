@@ -10,7 +10,7 @@
 </div>
 <div align="left">
 <h4>
-Foi utilizado Python como linguagem e interpretador, convertido do framework QT Designer (código em C++ convertido para Python). Utilizada também a fórmula matemática de diluentes pelo método de regras de 3. Se você utiliza o Visual Studio Code como Editor, deixarei descrito as extensões necessárias e as bibliotecas abaixo.</h4>
+Foi utilizado Python como linguagem e interpretador, convertido do framework QT Designer (código em C++ convertido para Python). Se você utiliza o Visual Studio Code como Editor, deixarei descrito as extensões necessárias e as bibliotecas abaixo.</h4>
 </div>
 <div align="center">
 <img width="800" height="600" alt="demonstracao" src="https://github.com/user-attachments/assets/86cd45c0-32d3-4836-9481-08ec27222a02" />
