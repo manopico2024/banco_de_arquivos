@@ -11,7 +11,7 @@
 
 
 <div align="center"><h1>MIT License</h1><p><b></div>
-<div align="left"><h3>Copyright (c) 2024 Marcus Vinicius Nunes</h3><p><br>
+<div align="left"><h3>Copyright (c) 2024 Marcus Vinicius Nunes.</h3><p><br>
 </div>
 
 <div align="left"><h4>
