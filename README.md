@@ -2,7 +2,7 @@
 <h1>Sobre</h1>
 </div>    
 <div align="left">
-<h3>Utilitário feito também em PYTHON, com intúito de ajudar a organizar arquivos soltos do computador...<p></h3>
+<h3>Utilitário feito também em PYTHON, com intúito de ajudar a organizar arquivos espalhados do computador...<p></h3>
 </div>
 
 <div align="center">
